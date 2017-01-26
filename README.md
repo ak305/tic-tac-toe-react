@@ -1,3 +1,3 @@
-# tic-tac-toe-react
+# tic tac toe
 
 ### Project using react
